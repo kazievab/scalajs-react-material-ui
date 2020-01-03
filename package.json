@@ -1,0 +1,10 @@
+{
+  "_commnet": "This package.json is required for normal deployment in heroku",
+  "name": "scalajs-react-material-ui",
+  "description": "scalajs-react facade for material-ui",
+  "version": "0.0.1",
+  "engines": {
+    "node": "12.15.0",
+    "yarn": "1.22.0"
+  }
+}
